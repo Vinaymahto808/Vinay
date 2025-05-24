@@ -82,11 +82,11 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?Vinaymahto808=your-github-Vinaymahto808&show_icons=true&theme=tokyonight" alt="your-github-Vinaymahto808" />
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" alt="your-github-username" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-Vinaymahto808&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" />
 </p>
 
 ---
