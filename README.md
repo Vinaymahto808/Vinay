@@ -1,6 +1,5 @@
-# Vinay
-Hii, I am Vinay Kumar
-<h1 align="center">Hi there 👋, I'm [Your Name]</h1>
+
+<h1 align="center">Hi there 👋, I'm Vinay Kumar Mahto</h1>
 <p align="center">
   🚀 Passionate Developer | 🧠 AI/ML Enthusiast | 🌐 Full-Stack Explorer
 </p>
@@ -15,29 +14,48 @@ Hii, I am Vinay Kumar
 
 - 🎓 I'm currently a [Your Course] student at [Your University].
 - 💡 Exploring AI/ML, Full Stack Development, and System Design.
-- 🛠️ Working on: `SecurePDF`, `AI-Healthcare-chatbot`, and `Print-Portal`.
+- 🛠️ Working on: `SecurePDF`, `AI-Healthcare-chatbot`, `Print-Portal`, and a `Geolocation-based Attendance Tracker`.
 - 💬 Ask me about Python, Machine Learning, React, Flutter, Node.js, Firebase.
 - ⚡ Fun fact: I love turning ideas into real-world digital solutions!
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Full Stack Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+### 💻 Frontend
+<p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+### 🔙 Backend
+<p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+</p>
+
+### 🗄️ Database & Cloud
+<p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+### ⚙️ Dev Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---
 
-## 🛠️ Projects
+## 🚀 Featured Projects
 
 ### 🔐 SecurePDF - Automated PII Redaction in PDFs
 - AI/ML-powered tool for automatic redaction of sensitive information in PDFs.
@@ -51,8 +69,13 @@ Hii, I am Vinay Kumar
 
 ### 🖨️ Print-Portal
 - A streamlined online platform for ordering custom print services.
-- 🛠 Full Stack (MERN or Flutter + Node.js)
+- 🛠 Full Stack (Flutter + Node.js, MongoDB)
 - 📁 [GitHub Repo](https://github.com/your-username/Print-Portal)
+
+### 📍 Geolocation-based Attendance Tracker
+- Flutter-based app for student attendance using real-time location and maps.
+- 🛠 Flutter, Node.js, MongoDB, Google Maps API
+- 📁 [GitHub Repo](https://github.com/your-username/Geo-Attendance-App)
 
 ---
 
