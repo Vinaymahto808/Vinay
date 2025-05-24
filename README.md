@@ -12,8 +12,8 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 I'm currently a [Your Course] student at [Your University].
-- 💡 Exploring AI/ML, Full Stack Development, and System Design.
+- 🎓 I'm currently a CSE student at GOVERNMENT ENGINEERING COLLEGE, PALAMU.
+- 💡 Exploring AI/ML, Full Stack Development, and Networking.
 - 🛠️ Working on: `SecurePDF`, `AI-Healthcare-chatbot`, `Print-Portal`, and a `Geolocation-based Attendance Tracker`.
 - 💬 Ask me about Python, Machine Learning, React, Flutter, Node.js, Firebase.
 - ⚡ Fun fact: I love turning ideas into real-world digital solutions!
@@ -60,33 +60,33 @@
 ### 🔐 SecurePDF - Automated PII Redaction in PDFs
 - AI/ML-powered tool for automatic redaction of sensitive information in PDFs.
 - 🛠 Python, Streamlit, FastAPI, OCR, Microsoft Presidio
-- 📁 [GitHub Repo](https://github.com/your-username/SecurePDF)
+- 📁 [GitHub Repo](https://github.com/Vinaymahto808/SecurePDF)
 
 ### 🩺 AI-Healthcare Chatbot
 - Intelligent chatbot that provides personalized health assistance.
 - 🛠 React, Node.js, GPT-API, Firebase
-- 📁 [GitHub Repo](https://github.com/your-username/AI-Healthcare-chatbot)
+- 📁 [GitHub Repo](https://github.com/Vinaymahto808/AI-Healthcare-chatbot)
 
 ### 🖨️ Print-Portal
 - A streamlined online platform for ordering custom print services.
 - 🛠 Full Stack (Flutter + Node.js, MongoDB)
-- 📁 [GitHub Repo](https://github.com/your-username/Print-Portal)
+- 📁 [GitHub Repo](https://github.com/Vinaymahto808/Print-Portal)
 
 ### 📍 Geolocation-based Attendance Tracker
 - Flutter-based app for student attendance using real-time location and maps.
 - 🛠 Flutter, Node.js, MongoDB, Google Maps API
-- 📁 [GitHub Repo](https://github.com/your-username/Geo-Attendance-App)
+- 📁 [GitHub Repo](https://github.com/Vinaymahto808/Geo-Attendance-App)
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" alt="your-github-username" />
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" alt="your-github-Vinaymahto808" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-Vinaymahto808&theme=tokyonight" />
 </p>
 
 ---
@@ -107,4 +107,4 @@
 
 ---
 
-⭐️ From [your-github-username](https://github.com/your-github-username)
+⭐️ From [Vinaymahto808](https://github.com/your-github-Vinaymahto808)
