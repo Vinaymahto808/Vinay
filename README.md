@@ -1,4 +1,14 @@
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Welcome+to+My+GitHub+Profile!;I'm+a+Full-Stack+Developer;AI+%2F+ML+Enthusiast+%F0%9F%92%BB" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212746504-617735b9-bf35-447c-a997-77f9d46c3b3c.gif" alt="Tech Banner" width="100%" />
+</p>
+
+
+
+<p align="center">
   <img src="https://i.imgur.com/A6bWGFl.gif" alt="Welcome Banner" width="100%" />
 </p>
 
