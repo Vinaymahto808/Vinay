@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there 👋, I'm Vinay Kumar Mahto</h1>
 <p align="center">
-  🚀 Passionate Developer | 🧠 AI/ML Enthusiast | 🌐 Full-Stack Explorer
+  🚀 Passionate Developer | 🧠 AI/ML Enthusiast | 🌐 Full-Stack Developer
 </p>
 
 <p align="center">
@@ -82,7 +82,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" alt="your-github-Vinaymahto808" />
+  <img src="https://github-readme-stats.vercel.app/api?Vinaymahto808=your-github-Vinaymahto808&show_icons=true&theme=tokyonight" alt="your-github-Vinaymahto808" />
 </p>
 
 <p align="center">
@@ -107,4 +107,4 @@
 
 ---
 
-⭐️ From [Vinaymahto808](https://github.com/your-github-Vinaymahto808)
+⭐️ From [Vinaymahto808](https://github.com/Vinaymahto808)
