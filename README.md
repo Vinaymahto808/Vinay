@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://i.imgur.com/A6bWGFl.gif" alt="Welcome Banner" width="100%" />
+</p>
 
 <h1 align="center">Hi there 👋, I'm Vinay Kumar Mahto</h1>
 <p align="center">
